@@ -7,6 +7,6 @@
     <Entry Text="{Binding Mensaje.asunto}"></Entry>
     <Label Text="Mensaje"></Label>
     <Editor Text="{Binding Mensaje.contenido}"></Editor>
-    <Button Text="Enviar" Command="{Binding CmdGuardar}"></Button>
+    <Button Text="Enviar" Command="{Binding CmdEnviar}"></Button>
   </StackLayout>
 </ContentPage>

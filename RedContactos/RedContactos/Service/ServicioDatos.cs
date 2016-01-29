@@ -134,7 +134,7 @@ namespace RedContactos.Service
 
         public async Task UpdateMensaje(MensajeModel mensaje)
         {
-            var request = new RestRequest()
+            var request = new RestRequest("Mensaje")
             {
                 Method = Method.PUT
             };

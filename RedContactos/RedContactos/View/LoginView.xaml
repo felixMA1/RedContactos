@@ -8,6 +8,6 @@
     <Label Text="Password"></Label>
     <Editor Text="{Binding Usuario.password}"></Editor>
     <Button Text="Enviar" Command="{Binding cmdLogin}"></Button>
-    <Button Text="Nuevo" Command="{Binding cmdAlta}"></Button>
+    <Button Text="Registrarse" Command="{Binding cmdAlta}"></Button>
   </StackLayout>
 </ContentPage>

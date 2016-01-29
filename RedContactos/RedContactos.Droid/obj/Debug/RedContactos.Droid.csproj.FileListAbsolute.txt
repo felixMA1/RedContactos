@@ -34,5 +34,6 @@ C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\RedCo
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\RedContactos\RedContactos.Droid\bin\Debug\RestSharp.Portable.Core.xml
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\RedContactos\RedContactos.Droid\bin\Debug\Autofac.xml
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\RedContactos\RedContactos.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\RedContactos\RedContactos.Droid\bin\Debug\RedContactos.dll.mdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\RedContactos\RedContactos.Droid\obj\Debug\RedContactos.Droid.dll.mdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\RedContactos\RedContactos.Droid\bin\Debug\RedContactos.Droid.dll.mdb
