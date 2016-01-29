@@ -3,3 +3,12 @@ C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\ApiContactos\Conta
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\ApiContactos\ContactosModel\obj\Release\ContactosModel.csprojResolveAssemblyReference.cache
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\ApiContactos\ContactosModel\obj\Release\ContactosModel.dll
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\ApiContactos\ContactosModel\obj\Release\ContactosModel.pdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\ContactosModel\bin\Release\ContactosModel.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\ContactosModel\bin\Release\ContactosModel.pdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\ContactosModel\bin\Release\Autofac.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\ContactosModel\bin\Release\Autofac.xml
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\ContactosModel\obj\Release\ContactosModel.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\ContactosModel\obj\Release\ContactosModel.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\ContactosModel\obj\Release\ContactosModel.pdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\ContactosModel\obj\Release\ContactosModel.dll.mdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\ContactosModel\bin\Release\ContactosModel.dll.mdb

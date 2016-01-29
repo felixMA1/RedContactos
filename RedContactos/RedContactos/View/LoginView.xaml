@@ -16,7 +16,7 @@
                        IsRunning="{Binding IsBusy,Mode=TwoWay}"
                        VerticalOptions="CenterAndExpand"
                        RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=0.20}"
-                       RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=-0.30}"
+                       RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=0.30}"
                        />
   </RelativeLayout>
     </StackLayout>

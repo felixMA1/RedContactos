@@ -34,3 +34,7 @@ C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmL
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\bin\Debug\MvvmLibrary.dll.mdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.dll.mdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\bin\Debug\MvvmLibrary.dll.mdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.dll.mdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\bin\Debug\MvvmLibrary.dll.mdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.dll.mdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\bin\Debug\MvvmLibrary.dll.mdb
