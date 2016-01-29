@@ -15,5 +15,6 @@ namespace ContactosModel.Model
             get { return leido ? "Leido" : "Sin Leer"; }
         }
         public System.DateTime fecha { get; set; }
+
     }
 }

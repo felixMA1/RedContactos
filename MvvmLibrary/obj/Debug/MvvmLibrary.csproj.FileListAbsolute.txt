@@ -16,12 +16,8 @@ C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmL
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.csprojResolveAssemblyReference.cache
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.dll
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.pdb
-C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.dll.mdb
-C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\bin\Debug\MvvmLibrary.dll.mdb
-C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.dll.mdb
-C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\bin\Debug\MvvmLibrary.dll.mdb
-C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.dll.mdb
-C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\bin\Debug\MvvmLibrary.dll.mdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\bin\Debug\Autofac.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\bin\Debug\Autofac.xml
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.dll.mdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\bin\Debug\MvvmLibrary.dll.mdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\RedContactos\MvvmLibrary\obj\Debug\MvvmLibrary.dll.mdb

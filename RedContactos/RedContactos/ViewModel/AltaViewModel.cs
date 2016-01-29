@@ -1,4 +1,5 @@
-﻿using System.Windows.Input;
+﻿using System;
+using System.Windows.Input;
 using ContactosModel.Model;
 using MvvmLibrary.Factorias;
 using RedContactos.Service;
@@ -52,6 +53,10 @@ namespace RedContactos.ViewModel
                 {
                     await _page.MostrarAlerta("Error", "Error usuario ya registrado", "Aceptar");
                 }
+            }
+            catch (Exception e)
+            {
+                await _page.MostrarAlerta("Error", "El usuario no existe", "Aceptar");
             }
             finally
             {
